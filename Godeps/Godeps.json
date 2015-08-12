@@ -1,0 +1,87 @@
+{
+	"ImportPath": "github.com/abduld/g",
+	"GoVersion": "go1.5rc1",
+	"Deps": [
+		{
+			"ImportPath": "bitbucket.org/ww/goautoneg",
+			"Comment": "null-5",
+			"Rev": "75cd24fc2f2c2a2088577d12123ddee5f54e0675"
+		},
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.8.6-7-g9c060de",
+			"Rev": "9c060de643590dae45da9d7c26276463bfc46fa0"
+		},
+		{
+			"ImportPath": "github.com/beorn7/perks/quantile",
+			"Rev": "b965b613227fddccbfffe13eae360ed3fa822f8d"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/negroni",
+			"Comment": "v0.1-70-gc7477ad",
+			"Rev": "c7477ad8e330bef55bf1ebe300cf8aa67c492d1b"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "73aaaa9eb61d74fbf7e256ca586a3a565b308eea"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Rev": "215affda49addc4c8ef7e2534915df2c8c35c6cd"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Rev": "c3c5f0000f7b474738b08f34308c1e8a4060ce14"
+		},
+		{
+			"ImportPath": "github.com/matttproud/golang_protobuf_extensions/pbutil",
+			"Rev": "fc2b8d3a73c4867e51861bbdd5ae3c1f0869dd6a"
+		},
+		{
+			"ImportPath": "github.com/pjebs/jsonerror",
+			"Rev": "236f3c18307ad38e59fc3f85e7bde1bef6233782"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_golang/model",
+			"Comment": "0.7.0-14-g61d4487",
+			"Rev": "61d4487606ff7b5fe968c128cdd15a003afdd2dd"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_golang/prometheus",
+			"Comment": "0.7.0-14-g61d4487",
+			"Rev": "61d4487606ff7b5fe968c128cdd15a003afdd2dd"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_golang/text",
+			"Comment": "0.7.0-14-g61d4487",
+			"Rev": "61d4487606ff7b5fe968c128cdd15a003afdd2dd"
+		},
+		{
+			"ImportPath": "github.com/prometheus/client_model/go",
+			"Comment": "model-0.0.2-12-gfa8ad6f",
+			"Rev": "fa8ad6fec33561be4280a8f0514318c79d7f6cb6"
+		},
+		{
+			"ImportPath": "github.com/prometheus/procfs",
+			"Rev": "c91d8eefde16bd047416409eb56353ea84a186e4"
+		},
+		{
+			"ImportPath": "github.com/unrolled/render",
+			"Rev": "aa61028b1d32873eaa3e261a3ef0e892a153107b"
+		},
+		{
+			"ImportPath": "golang.org/x/net/netutil",
+			"Rev": "1bc0720082d79ce7ffc6ef6e523d00d46b0dee45"
+		},
+		{
+			"ImportPath": "gopkg.in/airbrake/gobrake.v2",
+			"Comment": "v2",
+			"Rev": "dc7f1933dd9548305a923c89850e33e652b3751d"
+		},
+		{
+			"ImportPath": "gopkg.in/tylerb/graceful.v1",
+			"Comment": "v1.2.1",
+			"Rev": "ac9ebe4f1ee151ac1eeeaef32957085cba64d508"
+		}
+	]
+}
